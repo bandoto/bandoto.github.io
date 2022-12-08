@@ -89,6 +89,13 @@ body.locked {
     cursor: pointer;
 }
 
+@media (max-width: 768px) {
+    .btn {
+        font-size: 16px;
+        padding: 10px;
+    }
+}
+
 .btn-w {
     color: #5D78FF;
     background-color: #fff;
